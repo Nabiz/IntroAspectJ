@@ -1,0 +1,10 @@
+Tutaj wklejam jeszcze linki pojawiające się w instrukcji:
+
+https://mvnrepository.com/artifact/org.aspectj/aspectjrt/1.9.6
+https://mvnrepository.com/artifact/org.aspectj/aspectjweaver/1.9.6
+
+https://o7planning.org/10257/java-aspect-oriented-programming-with-aspectj
+
+https://www.baeldung.com/tag/aspectj/
+https://www.baeldung.com/aspectj
+https://www.baeldung.com/spring-aop-vs-aspectj
