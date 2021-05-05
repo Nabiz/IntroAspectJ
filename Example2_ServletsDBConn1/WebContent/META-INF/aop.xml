@@ -1,0 +1,8 @@
+<aspectj>
+    <aspects>
+        <aspect name="zti.DBConnAspect"/>
+        <weaver options="-verbose -showWeaveInfo">
+            <include within="zti.*"/>
+        </weaver>
+    </aspects>
+</aspectj>
